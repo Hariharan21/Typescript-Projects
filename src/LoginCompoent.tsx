@@ -125,7 +125,7 @@ const Login = () => {
         payload: 'Incorrect username or password'
       });
     }
-  };
+  }; 
 
   const handleKeyPress = (event: React.KeyboardEvent) => {
     if (event.keyCode === 13 || event.which === 13) {
