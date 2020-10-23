@@ -41,5 +41,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "hariharanravi",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariharan21/Typescript-Projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hariharan21/Typescript-Projects/issues"
+  },
+  "homepage": "https://github.com/hariharan21/Typescript-Projects#readme"
 }
